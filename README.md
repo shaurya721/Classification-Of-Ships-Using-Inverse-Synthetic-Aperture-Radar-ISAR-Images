@@ -69,8 +69,8 @@ This project focuses on the development of an efficient and precise ship classif
 - Labeled data created using MATLAB’s Image Labeler tool.
 
 ## Contributors
-- [Your Name]
-- [Collaborators]
+- Shaurya
+- DROO Scientist-E Dr. Dyana A.
 
 ## License
 This project is licensed under the MIT License.
